@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "name": "Mathematics",
+    "hours": 45,
+    "coefficient": 4,
+    "number_exams": 3
+  }
+]
